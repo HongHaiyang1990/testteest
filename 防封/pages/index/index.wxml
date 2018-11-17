@@ -1,0 +1,2 @@
+<button bindtap='taptest'>点我测试</button>
+<view style='text-align: center;padding: 50rpx 0;'>或者可以截屏测试</view>
